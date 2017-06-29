@@ -1,5 +1,6 @@
 site_name: MkLorum
 repo_url: https://github.com/cyang235/mkdocs_learn
+repo_name: GitHub
 pages:
     - Home: index.md
     - About: about.md
