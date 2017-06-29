@@ -1,6 +1,11 @@
-site_name: MkLorum
-repo_url: https://github.com/cyang235/mkdocs_learn
+site_name: Technique Notes
+site_description: To record technique notes
+repo_url: https://github.com/cyang23/TechNotes
 repo_name: GitHub
+theme: readthedocs
+site_author: Cheng Yang
+
 pages:
     - Home: index.md
-    - About: about.md
+    - Git: git.md
+    - MKdocs: mkdocs.md
